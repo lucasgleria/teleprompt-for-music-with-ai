@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/vocals.wav
+data/vocals_no_silence.wav
+.sppaspyenv~
