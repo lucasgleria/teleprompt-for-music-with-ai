@@ -1,0 +1,10 @@
+librosa
+pyaudio
+SpeechRecognition
+pygame
+torch
+torchaudio
+openai-whisper
+pydub
+thefuzz
+rapidfuzz
